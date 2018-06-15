@@ -1,0 +1,52 @@
+.card {
+    border-style: solid;
+    border-width: thin;
+    border-color: black;
+    border-radius: 5px;
+    width: 320px;
+    box-shadow: 10px 10px #eeeded;
+    background: #8bb668;
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+img {
+    border-radius: 5px;
+}
+
+h3 {
+    background: beige;
+    padding-left: 10px;
+    border-style: solid;
+    border-color: black;
+    border-width: thin;
+    border-radius: 5px;
+}
+
+.fact {
+    font-style: italic;
+}
+
+.details {
+    width: 300px;
+    margin: auto;
+    padding-bottom: 10px;
+    font-size: 11pt;
+}
+
+.info {
+    border-style: solid;
+    border-width: thin;
+    border-color: black;
+    border-radius: 5px;
+    padding-right: 10px;
+    padding-left: 10px;
+    background: beige;
+}
+
+.label {
+    font-weight: bold;
+}
